@@ -1,4 +1,5 @@
 // News-image entry (Node 22, standard library only).
+// Entry: The World Today — Friday 20 November 2026.
 // The image is drawn by generate_image.py and stored here as entry.png;
 // this program copies it byte-for-byte to /output/entry.png, so the
 // judge sees exactly the file in this repository. The copy is
